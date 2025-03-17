@@ -1,0 +1,76 @@
+{
+  "Users": [
+    {
+      "id": "Hebelu",
+      "firstname": "Hebelu",
+      "lastname": "Pasam",
+      "email": "hebelupasam1437@gmail.com",
+      "mobile": "06281113710",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "gender": "male",
+      "country": "India",
+      "address": "6-488/1",
+      "age": "25",
+      "type": "User"
+    },
+    {
+      "id": "Pasam",
+      "firstname": "Pasam",
+      "lastname": "Hebelu",
+      "email": "pasam.hebelu@hcl.com",
+      "mobile": "06281113710",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "gender": "male",
+      "country": "India",
+      "address": "6-488/1",
+      "age": "23",
+      "type": "User"
+    }
+  ],
+  "Admins": [
+    {
+      "id": 1,
+      "firstname": "Pasam",
+      "lastname": "Hebelu",
+      "email": "pasam.hebelu@hcl.com",
+      "mobile": "06281113710",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "gender": "male",
+      "country": "Usa",
+      "address": "6-488/1",
+      "age": "23",
+      "type": "Admin"
+    }
+  ],
+  "Products": [
+    {
+      "id": "Dhum Biriyani",
+      "foodname": "Dhum Biriyani",
+      "foodqty": "12",
+      "foodprice": "249",
+      "date": "2025-02-10",
+      "image": "/Images/Dhum.jpg",
+      "description": "12"
+    },
+    {
+      "id": "Drum sticks",
+      "foodname": "Drum sticks",
+      "foodqty": "12",
+      "foodprice": "149",
+      "date": "2025-02-10",
+      "image": "/Images/chickendrum.jpg",
+      "description": "sv,"
+    }
+  ],
+  "Bills": [
+    {
+      "id": "9f05",
+      "user": "Hebelu Pasam",
+      "email": "hebelupasam1437@gmail.com",
+      "total": 249
+    }
+  ]
+}
