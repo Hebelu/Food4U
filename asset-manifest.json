@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Food4U/static/css/main.e4fdde88.css",
+    "main.js": "/Food4U/static/js/main.e934c120.js",
+    "static/js/421.08b35ead.chunk.js": "/Food4U/static/js/421.08b35ead.chunk.js",
+    "static/js/787.43f842c4.chunk.js": "/Food4U/static/js/787.43f842c4.chunk.js",
+    "static/media/about.png": "/Food4U/static/media/about.e67c57eff07f521ccfcd.png",
+    "static/media/resturant.jpg": "/Food4U/static/media/resturant.d000be1c61db88382995.jpg",
+    "static/media/logo.png": "/Food4U/static/media/logo.7cee62a00cea0305ebe4.png",
+    "static/media/slick.svg": "/Food4U/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Food4U/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Food4U/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Food4U/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Food4U/index.html",
+    "main.e4fdde88.css.map": "/Food4U/static/css/main.e4fdde88.css.map",
+    "main.e934c120.js.map": "/Food4U/static/js/main.e934c120.js.map",
+    "421.08b35ead.chunk.js.map": "/Food4U/static/js/421.08b35ead.chunk.js.map",
+    "787.43f842c4.chunk.js.map": "/Food4U/static/js/787.43f842c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4fdde88.css",
+    "static/js/main.e934c120.js"
+  ]
+}
