@@ -1,0 +1,117 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "firstname": "Pasam",
+      "lastname": "Hebelu",
+      "email": "pasam.hebelu@hcl.com",
+      "mobile": "06281113710",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "gender": "male",
+      "country": "India",
+      "address": "6-488/1\nAnjanapuram.",
+      "age": "23",
+      "type": "User"
+    },
+    {
+      "id": 2,
+      "firstname": "Pasam",
+      "lastname": "Hebelu",
+      "email": "hebelu@hcl.com",
+      "mobile": "06281113710",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "gender": "male",
+      "country": "India",
+      "address": "6-488/1\nAnjanapuram.",
+      "age": "23",
+      "type": "User"
+    }
+  ],
+  "Admins": [
+    {
+      "id": 1,
+      "firstname": "Pasam",
+      "lastname": "Hebelu",
+      "email": "pasam.hebelu@hcl.com",
+      "mobile": "06281113710",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "gender": "male",
+      "country": "India",
+      "address": "6-488/1\nAnjanapuram.",
+      "age": "23",
+      "type": "Admin"
+    },
+    {
+      "id": 2,
+      "firstname": "Pasam",
+      "lastname": "Hebelu",
+      "email": "hebelu@hcl.com",
+      "mobile": "06281113710",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "gender": "male",
+      "country": "India",
+      "address": "6-488/1\nAnjanapuram.",
+      "age": "23",
+      "type": "Admin"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "foodname": "Mutton Biriyani",
+      "foodqty": "12",
+      "foodprice": "349",
+      "date": "2023-12-11",
+      "image": "/Images/mutton.jpg",
+      "description": "Non-Veg and delicious"
+    },
+    {
+      "id": 2,
+      "foodname": "Dhum Biriyani",
+      "foodqty": "12",
+      "foodprice": "299",
+      "date": "2023-12-12",
+      "image": "/Images/Dhum.jpg",
+      "description": "Non-Veg and delicious"
+    },
+    {
+      "id": 3,
+      "foodname": "Chilli Chicken",
+      "foodqty": "12",
+      "foodprice": "249",
+      "date": "2023-12-12",
+      "image": "/Images/chilli.jpg",
+      "description": "Non-Veg and delicious"
+    },
+    {
+      "id": 4,
+      "foodname": "Chicken 65",
+      "foodqty": "12",
+      "foodprice": "199",
+      "date": "2023-12-12",
+      "image": "/Images/chicken65.jpg",
+      "description": "Non-Veg and delicious"
+    },
+    {
+      "id": 5,
+      "foodname": "Butter milk",
+      "foodqty": "12",
+      "foodprice": "99",
+      "date": "2023-12-12",
+      "image": "/Images/buttermilk.jpg",
+      "description": "Masala with coriandal butter milk"
+    }
+  ],
+  "Bills": [
+    {
+      "user": "Pasam Hebelu",
+      "email": "pasam.hebelu@hcl.com",
+      "total": 349,
+      "id": 1
+    }
+  ]
+}
