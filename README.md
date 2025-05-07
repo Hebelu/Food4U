@@ -68,3 +68,67 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# 🍕 Food4U – React Food Delivery App
+
+**Food4U** is a Swiggy/Zomato-inspired food delivery web app built with **React.js**. It supports both **Admin** and **User** roles. Users can browse food, search, add to cart, and place orders. Admins can manage food items and users from a dedicated panel.
+
+---
+
+## ✨ Features
+
+### 👨‍🍳 User Module
+
+* 👤 User Login / Registration
+* 🍔 Browse Products (Food Items)
+* 🛒 Add to Cart with Quantity Management
+* 🔍 Search for Food & Restaurants
+* 📦 Confirm Order
+* 📃 About Page
+* 🚀 User Navbar Navigation
+
+### 🛠 Admin Module
+
+* 🔑 Admin Login / Register / Logout
+* ➕ Add Food Items
+* 🧾 Admin Bill View
+* 📦 View & Update Products
+* 👨‍💼 Create & Update Users
+* 📋 Employee Table
+* 🧭 Admin Navigation Bar
+
+---
+
+## 🧱 Folder Structure
+
+```bash
+src/
+├── components/
+│   ├── Admin/
+│   │   ├── AddFood.js
+│   │   ├── AdminBill.js
+│   │   ├── AdminLogin.js
+│   │   ├── AdminLogout.js
+│   │   ├── AdminNavBar.js
+│   │   ├── AdminProduct.js
+│   │   ├── AdminRegister.js
+│   │   ├── CreateUser.js
+│   │   ├── EmployeeTable.js
+│   │   ├── Read.js
+│   │   └── UpdateUser.js
+│
+│   ├── Main/
+│   │   ├── ErrorPage.js
+│   │   ├── Logout.js
+│   │   └── Main.js
+│
+│   └── User/
+│       ├── About.js
+│       ├── Item.js
+│       ├── UserCart.js
+│       ├── UserLogin.js
+│       ├── UserNavBar.js
+│       ├── UserProduct.js
+│       └── UserRegister.js
+```
